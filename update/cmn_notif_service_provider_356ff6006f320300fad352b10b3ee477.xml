@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_notif_service_provider">
+    <cmn_notif_service_provider action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <construction_script>current.phone_number + '@serviceprovider.com'</construction_script>
+        <email_prefix/>
+        <email_suffix>airtelkk.com</email_suffix>
+        <im_provider>Yahoo</im_provider>
+        <name>Airtel</name>
+        <script/>
+        <sys_class_name>cmn_notif_service_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-28 09:09:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>356ff6006f320300fad352b10b3ee477</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Airtel</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>cmn_notif_service_provider_356ff6006f320300fad352b10b3ee477</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-28 09:09:02</sys_updated_on>
+        <type>SMS</type>
+        <use_construction_script>false</use_construction_script>
+        <use_custom_script>false</use_custom_script>
+    </cmn_notif_service_provider>
+</record_update>
